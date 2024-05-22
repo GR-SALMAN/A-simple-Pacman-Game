@@ -14,7 +14,7 @@ Welcome to SPAC-MAN, a simple yet exciting game built using C++. Navigate the ma
 ### Prerequisites
 
 - Windows OS
-- C++ Compiler (e.g., GCC)
+- C++ Compiler (e.g., GCC/CodeBlocks)
 - Command Line or Terminal
 
 ### Installation
