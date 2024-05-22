@@ -20,21 +20,20 @@ Welcome to SPAC-MAN, a simple yet exciting game built using C++. Navigate the ma
 ### Installation
 
 1. **Clone the Repository**:
-
-   ```bash
-      git clone https://github.com/yourusername/spac-man.git
-      cd spac-man
+```bash
+git clone https://github.com/yourusername/spac-man.git
+cd spac-man
+```
 2. **Compile the Game**:
 
 Open your command line or terminal in the project directory and run the following command:
-
-   ```bash
-      g++ -o spacman main.cpp
+```bash
+g++ -o spacman main.cpp
    ```
 3. Run the Game:
-   ```bash
-      ./spacman
-   ```
+```bash
+./spacman
+```
 ## How to Play
 
 ### Start the Game:
