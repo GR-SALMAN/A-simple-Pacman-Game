@@ -21,7 +21,7 @@ Welcome to SPAC-MAN, a simple yet exciting game built using C++. Navigate the ma
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/spac-man.git
+git clone https://github.com/GR-SALMAN/spac-man.git
 cd spac-man
 ```
 2. **Compile the Game**:
